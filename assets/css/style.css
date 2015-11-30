@@ -5,3 +5,7 @@
   border-left: none;
   height: 520px;
 }
+
+.col-md-8 {
+  padding: 20px;
+}
