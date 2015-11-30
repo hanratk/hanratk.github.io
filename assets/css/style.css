@@ -1,4 +1,7 @@
 .col-md-4 {
   border-right: 2px solid black;
-  height: 1000px;
+  border-top: none;
+  border-bottom: none;
+  border-left: none;
+  height: 700px;
 }
