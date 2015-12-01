@@ -4,6 +4,11 @@
   border-bottom: none;
   border-left: none;
   height: 520px;
+  background-color: 33CCFF;
+}
+
+.btn btn-link {
+  color: white;
 }
 
 title {
