@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Merriweather);
+
 .col-md-2 {
   border-right: 2px solid black;
   border-top: none;
@@ -10,7 +12,7 @@
 
 
 title {
-  font-family: 'Raleway', sans-serif;
+font-family: 'Merriweather', serif;
 }
 
 .row
