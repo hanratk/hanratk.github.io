@@ -6,9 +6,9 @@
   border-left: none;
   height: 520px;
   background-color: 33CCFF;
-}
-
-.btn btn-link {color: black;}
+  }
+  
+  a {color: black;}
 a:hover {color: black;}
 a:active {color: grey;}
 a:visted {color: grey;}
