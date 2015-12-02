@@ -8,7 +8,7 @@
   background-color: 33CCFF;
 }
 
-a {color: black;}
+.btn btn-link {color: black;}
 a:hover {color: black;}
 a:active {color: grey;}
 a:visted {color: grey;}
