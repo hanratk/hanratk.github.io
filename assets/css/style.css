@@ -5,10 +5,10 @@
   border-bottom: none;
   border-left: none;
   height: 520px;
-  background-color: 33CCFF;
+  background-color: 33CCFF !important;
   }
-  
-  a {color: black;}
+
+  a {color: black !important;}
 a:hover {color: black;}
 a:active {color: grey;}
 a:visted {color: grey;}
