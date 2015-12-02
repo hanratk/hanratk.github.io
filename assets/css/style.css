@@ -14,7 +14,8 @@ a:active {color: grey;}
 a:visted {color: grey;}
 
 .carousel-caption {
-  font-size: 20px;
+  font-size: 30px;
+  color: grey;
 }
 
 h1 {
