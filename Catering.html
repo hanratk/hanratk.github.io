@@ -3,4 +3,67 @@ title: Drunk Food with Daisy
 category: demo page
 layout: default
 ---
-<h1> Catering </h1>
+<h1> Dine In </h1>
+
+Don't have the time to make our recipes yourself? Come in and try our delicious treats at any of our Philadelphia locations!
+Drunk Food with Daisy has three locations with the same store hours for you convenience.
+<h3>Locations:</h3>
+<ol>
+<li>51 Sherwood Road, Philadelphia, PA, 19151</li>
+<li>6051 Overbrook Avenue, Philadelphia, PA, 19131</li>
+<li>62 Market Street, Philadelphia, PA, 19107</li>
+</ol>
+<h3>Hours:</h3>
+<ol>
+  <li>Sunday: 11:00 AM - 11:00 PM </li>
+    <li>Monday-Thursday: 10:00 AM - 1:00 AM</li>
+  <li>Friday-Saturday: 10:00 AM - 3:00 AM</li>
+</ol>
+<!-- The carousel will fill its container. Be sure to create a container that will match your image size. Here, I create a col-6 container for the carousel, since my images are about the right proportions for that. -->
+<div class="row">
+  <div class="col-md-9">
+    <!-- Carousel code starts here -->
+    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <!-- These add the little "bullets" at the bottom of the show, indicating how many slides there are, and which slide is being displayed. If you add a slide to the initial 3, add an indicator. -->
+      <ol class="carousel-indicators">
+        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+      </ol>
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner" role="listbox">
+        <div class="item active">
+          <img src="dining.jpg" alt="Diner">
+          <div class="carousel-caption">
+          62 Market Street, Philadelphia, PA, 19107  
+          </div>
+        </div>
+        <div class="item">
+          <img src="Dining2.jpg" alt="Diner">
+          <div class="carousel-caption">
+            6051 Overbrook Avenue, Philadelphia, PA, 19131
+          </div>
+        </div>
+        <div class="item">
+          <img src="dining3.jpg" alt="Diner">
+          <div class="carousel-caption">
+          51 Sherwood Road, Philadelphia, PA, 19151
+          </div>
+        </div>
+      <!-- Add any additional slides here, before the "carousel-inner" div closes. Slides will in order of their position here, top first, bottom last. -->
+
+    </div>
+
+    <!-- Controls. Leave these alone. -->
+    <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>
+</div>
