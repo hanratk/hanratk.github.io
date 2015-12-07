@@ -19,9 +19,13 @@ a:visted {color: grey;}
   font-size: 15px;
 }
 
+h2 {
+  font-family: 'Archivo Narrow', sans-serif;
+}
+
 h1 {
 font-family: 'Indie Flower', cursive;
-font-size: 150%;
+font-size: 400%;
 }
 
 .row
