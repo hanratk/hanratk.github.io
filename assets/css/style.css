@@ -8,8 +8,8 @@
   }
 
 .heading {
-  display: block;
-  background-color: violet;
+  display: block !important;
+  background-color: violet !important;
 }
 
   a {
