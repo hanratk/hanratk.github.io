@@ -7,7 +7,7 @@
   height: 520px;
   }
 
-.heading {
+#heading {
   display: block !important;
   background-color: violet !important;
 }
