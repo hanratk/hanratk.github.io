@@ -10,6 +10,7 @@
   a {
     color: black !important;
     font-family: 'Indie Flower', cursive !important;
+    font-size: 200% !important;
   }
 
 a:hover {color: black;}
@@ -21,7 +22,7 @@ a:visted {color: grey;}
 }
 
 h2 {
-  font-family: 'Archivo Narrow', sans-serif;
+font-family: 'Oxygen', sans-serif;
 }
 
 h1 {
