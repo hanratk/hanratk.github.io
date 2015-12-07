@@ -9,6 +9,7 @@
 
   a {
     color: black !important;
+    font-family: 'Indie Flower', cursive;
   }
 
 a:hover {color: black;}
