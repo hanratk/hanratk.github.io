@@ -18,6 +18,10 @@
     font-size: 250% !important;
   }
 
+#description {
+  padding-left: 20px important!;
+}
+
 a:hover {color: black;}
 a:active {color: grey;}
 a:visted {color: grey;}
