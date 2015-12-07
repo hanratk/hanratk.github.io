@@ -7,6 +7,11 @@
   height: 520px;
   }
 
+.heading {
+  display: block;
+  background-color: violet;
+}
+
   a {
     color: black !important;
     font-family: 'Indie Flower', cursive !important;
