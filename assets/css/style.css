@@ -9,7 +9,7 @@
 
   a {
     color: black !important;
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Indie Flower', cursive !important;
   }
 
 a:hover {color: black;}
@@ -26,7 +26,7 @@ h2 {
 
 h1 {
 font-family: 'Indie Flower', cursive;
-font-size: 400%;
+font-size: 300%;
 }
 
 .row
