@@ -5,7 +5,6 @@
   border-bottom: none;
   border-left: none;
   height: 815px;
-  background-image: url("daisies-flowers.jpg") !important;
 
 
   }
@@ -14,8 +13,7 @@
 {padding: 10px;}
 
 #heading { padding: 10px;
-  background-image: url("daisies-flowers.jpg") !important;
-color: purple !important;
+color: #33CCFF !important;
 }
 
 .recipe {
