@@ -14,6 +14,7 @@ background-color: #FFFF33 !important;
 
 #heading { padding: 10px;
 background-color: #FFFF33 !important;
+border-bottom: 2px solid black;
 }
 
 .recipe {
