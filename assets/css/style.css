@@ -25,7 +25,12 @@
   }
 
 #description {
-  margin-left: 20px important!;
+  margin-left: 20px !important;
+}
+
+#waiting
+{
+  margin-left: 20px !important;
 }
 
 a:hover {color: black;}
