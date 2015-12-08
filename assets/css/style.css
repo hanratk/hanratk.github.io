@@ -5,13 +5,10 @@
   border-bottom: none;
   border-left: none;
   height: 775px;
-  background-color: violet !important;
+
   }
 
 #heading {
-  display: block !important;
-  background-color: violet !important;
-  padding: 20px !important;
 }
 
 .recipe {
@@ -27,7 +24,7 @@
 
 #description
 {
-  margin-left: 47px !important;
+  margin-left: 52px !important;
 }
 
 #waiting
