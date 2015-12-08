@@ -13,7 +13,7 @@
 {padding: 10px;}
 
 #heading { padding: 10px;
-  background-image: image(daises-flowers.jpg);
+  background-image: url("daises-flowers.jpg") !important;
 }
 
 .recipe {
