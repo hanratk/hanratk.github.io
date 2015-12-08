@@ -24,13 +24,14 @@
     font-size: 250% !important;
   }
 
-#description {
-  margin-left: 30px !important;
+#description
+{
+  margin-left: 40px !important;
 }
 
 #waiting
 {
-  margin-left: 30px !important;
+  margin-left: 40px !important;
 }
 
 a:hover {color: black;}
