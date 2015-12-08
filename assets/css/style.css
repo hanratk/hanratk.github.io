@@ -13,6 +13,10 @@
   padding: 20px !important;
 }
 
+img {
+  float: left;
+}
+
   a {
     color: black !important;
     font-family: 'Indie Flower', cursive !important;
